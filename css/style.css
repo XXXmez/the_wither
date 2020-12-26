@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'MasonChronicles';
-    src: url('http://grymyl.ru/thewitcher/fonts/MasonChronicles.woff') format('woff'),
-         url('http://grymyl.ru/thewitcher/fonts/MasonChronicles.woff2') format('woff2');
+    src: url('../fonts/MasonChronicles.woff') format('woff'),
+         url('../fonts/MasonChronicles.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
   }
@@ -17,7 +17,7 @@ body {
     justify-content: space-between;
 }
 body {
-    background-image: url(http://grymyl.ru/thewitcher/img/background.jpg);
+    background-image: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -146,49 +146,49 @@ h2.card-title {
     max-width: 420px;
 }
 .series-1 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/series1.png);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/series1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-2 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/series2.png);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/series2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-3 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/s3.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/s3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-4 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/s4.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/s4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-5 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/s5.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/s5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-6 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/s6.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/s6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-7 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/s7.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/s7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .series-8 {
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(http://grymyl.ru/thewitcher/img/series/s8.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/s8.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -197,7 +197,7 @@ h2.card-title {
     width: 32px;
     height: 23px;
     border: none;
-    background-image: url(http://grymyl.ru/thewitcher/img/series/arrow.svg);
+    background-image: url(../img/series/arrow.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
